@@ -1,5 +1,7 @@
 # Desafio 04 - React -Rocketseat
 
+<img src="https://user-images.githubusercontent.com/44621317/70855530-fd3b0a80-1eaa-11ea-8279-06a2b1c73604.png" width="600">
+
 ## Available Scripts
 
 In the project directory, you can run:
