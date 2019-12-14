@@ -1,0 +1,33 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  height: 8vh;
+  background-color: #4A90E2;
+  align-items: center;
+}
+
+.header-container ul {
+  margin: 20px 30px;
+  display: flex;
+  align-items: center;
+}
+
+.header-container ul li { 
+  padding: 5px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.header-container ul li i {
+  color: white;
+}
+
+.header-container h1 {
+  margin: 35px;
+  font-size:30px;
+  font-weight: bold;
+}
+
+.header-container a {
+  color: #ffffff;
+}
